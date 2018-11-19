@@ -25,9 +25,8 @@ The second section is about the livable spaces searching and it is more like an 
   * [Countries happiness](https://www.kaggle.com/unsdsn/world-happiness#2015.csv).
   * [United state Metro Area GDP](https://www.bea.gov/data/gdp/gdp-metropolitan-area).
 * Cities Map Image Data:
-  * After searching many dataset website, I found that it is really hard to get a pure a city map. This feature may be eliminated.
-  * However, some [small pieces of city map](https://people.eecs.berkeley.edu/~taesung_park/CycleGAN/datasets/) are accessible and it can be used to do the map generation.
-  * Meanwhile, some [history maps](https://legacy.lib.utexas.edu/maps/world_cities.html#D) are accessible.
+  * [Small pieces of city map](https://people.eecs.berkeley.edu/~taesung_park/CycleGAN/datasets/).
+  * [History maps](https://legacy.lib.utexas.edu/maps/world_cities.html#D).
 * Global Map Image Data:
   * [NASA Earthobservation](https://earthobservatory.nasa.gov/global-maps).
   * [Global Map Data](https://nationalmap.gov/small_scale/atlas-ftp-global-map.html).
