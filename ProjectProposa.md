@@ -28,6 +28,14 @@ More specifically, in the part of classification problem with numeric and catego
 
 The following two section about future map generating and livable place searching is more productive and interesting. In the part of map generating, I will use a unsupervised learning algorithm [GAN](https://arxiv.org/pdf/1406.2661.pdf)(Generative adversarial network) and more specifically use the [Image to Image Translation with a conditional generative adversarial network](https://arxiv.org/pdf/1611.07004.pdf) and [cycle-consistent adversarial network](https://arxiv.org/pdf/1703.10593.pdf). This algorithm include two parts which one for genrate fake image and one for discriminate the fake image from the real image and play a minmax game. In my model, I will first train the GAN model with data A,B where A has the real feature and real image while B has the real features and generate the fake image. If the model is trained successfully, I can use this model and the predicted features from RNN to generate the future map. May be we can have a view of the future world and it is believed work well especially in the developing country since it can take the developed country data as an template. 
 
-The second section is about the livable spaces searching and it is more like an application of my evaluation model. I will first do a region evaluation to find the high value non human activity area likes plane mainland and spilt these area into thousands of little square image with features of weather, elevation level and so on. After that, I will apply my feature adjusted combined evaluation model to these features and generate a list of evaluation values. The places with highest evaluation value may be taken into consideration to build a city.
+The second section is about the livable spaces searching and it is more like an application of my evaluation model. I will first do a region evaluation to find the high value less human activity area likes plain and spilt these area into thousands of little square image with features of weather, elevation level and so on. After that, I will apply my feature adjusted combined evaluation model to these features and generate a list of evaluation values. The places with highest evaluation value may be taken into consideration to build a city.
+
+### Dataset
+* Cities
+* Cities Map dataset()
+* Global Map feature
+[NASA Earthobservation](https://earthobservatory.nasa.gov/global-maps)
+
+[Global Map Data](https://nationalmap.gov/small_scale/atlas-ftp-global-map.html)
 
 
