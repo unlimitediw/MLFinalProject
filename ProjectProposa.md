@@ -18,15 +18,15 @@ The following two section about future map generating and livable place searchin
 The second section is about the livable spaces searching and it is more like an application of my evaluation model. I will first do a region evaluation to find the high value less human activity area likes plain and spilt these area into thousands of little square image with features of weather, elevation level and so on. After that, I will apply my feature adjusted combined evaluation model to these features and generate a list of evaluation values. The places with highest evaluation value may be taken into consideration to build a city.
 
 ### Dataset
-* Cities numeric and catrgory data:
+* Cities Numeric and Catrgory Data:
   * [World cities database].
   * [Countries happiness](https://www.kaggle.com/unsdsn/world-happiness#2015.csv).
   * [United state Metro Area GDP](https://www.bea.gov/data/gdp/gdp-metropolitan-area).
-* Cities Map image data:
+* Cities Map Image Data:
   * After searching many dataset website, I found that it is really hard to get a pure a city map. This feature may be elimated.
   * However, some [small pieces of city map](https://people.eecs.berkeley.edu/~taesung_park/CycleGAN/datasets/) are accessable and it can be used to do the map generation.
   * Meanwhile, some [history maps](https://legacy.lib.utexas.edu/maps/world_cities.html#D) are accessable.
-* Global Map image data:
+* Global Map Image Data:
   * [NASA Earthobservation](https://earthobservatory.nasa.gov/global-maps).
   * [Global Map Data](https://nationalmap.gov/small_scale/atlas-ftp-global-map.html).
 
