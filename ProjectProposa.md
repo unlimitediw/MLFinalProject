@@ -32,10 +32,13 @@ The second section is about the livable spaces searching and it is more like an 
 
 ### Dataset
 * Cities
-* Cities Map dataset()
+* Cities Map data:
+
+After searching many dataset website, I found that it is really hard to get a pure a city map. This feature may be elimated
 * Global Map feature
 [NASA Earthobservation](https://earthobservatory.nasa.gov/global-maps)
 
 [Global Map Data](https://nationalmap.gov/small_scale/atlas-ftp-global-map.html)
+
 
 
