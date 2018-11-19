@@ -25,4 +25,4 @@
 @WENTAO LI
 
 ### Abstract
-There are 4037 cities with more than 100,000 population around the world. From the largest cities such as [Shanghai](https://en.wikipedia.org/wiki/Shanghai), [Tokyo](https://en.wikipedia.org/wiki/Tokyo) and [New York City](https://en.wikipedia.org/wiki/New_York_City) to some unknown small cities likes [Boise](https://en.wikipedia.org/wiki/Boise,_Idaho) and [Portland](https://en.wikipedia.org/wiki/Portland,_Oregon)
+There are [4037 cities with more than 100,000 population around the world](https://brilliantmaps.com/4037-100000-person-cities/). From the largest cities such as [Shanghai](https://en.wikipedia.org/wiki/Shanghai), [Tokyo](https://en.wikipedia.org/wiki/Tokyo) and [New York City](https://en.wikipedia.org/wiki/New_York_City) to some unknown small cities likes [Boise](https://en.wikipedia.org/wiki/Boise,_Idaho) and [Portland](https://en.wikipedia.org/wiki/Portland,_Oregon)
