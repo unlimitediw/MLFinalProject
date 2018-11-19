@@ -1,5 +1,6 @@
 # Project Proposal: World Cities Evaluation System
 WENTAO LI*
+
 *George Washington University, <unlimitediw@gwmail.gwu.edu>
 
 ### Abstract
