@@ -19,4 +19,6 @@ The following two section about future map generating and livable place searchin
 
 The second section is about the livable spaces searching and it is more like an application of my evaluation model. I will first do a region evaluation to find the high value less human activity area likes plain and spilt these area into thousands of little square image with features of weather, elevation level and so on. After that, I will apply my feature adjusted combined evaluation model to these features and generate a list of evaluation values. The places with highest evaluation value may be taken into consideration to build a city.
 
+### [Timeline](https://github.com/unlimitediw/MLFinalProject/tree/master)
+
 ### [Datasets and Reference](https://github.com/unlimitediw/MLFinalProject/blob/master/DataRef.md)
