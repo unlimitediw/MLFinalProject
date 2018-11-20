@@ -1,14 +1,14 @@
 ### Datasets
 * Cities Numeric and Category Data:
- * [World cities database](https://www.kaggle.com/max-mind/world-cities-database).
- * [Countries happiness](https://www.kaggle.com/unsdsn/world-happiness#2015.csv).
- * [United state Metro Area GDP](https://www.bea.gov/data/gdp/gdp-metropolitan-area).
+  * [World cities database](https://www.kaggle.com/max-mind/world-cities-database).
+  * [Countries happiness](https://www.kaggle.com/unsdsn/world-happiness#2015.csv).
+  * [United state Metro Area GDP](https://www.bea.gov/data/gdp/gdp-metropolitan-area).
 * Cities Map Image Data:
- * [Small pieces of city map](https://people.eecs.berkeley.edu/~taesung_park/CycleGAN/datasets/).
- * [History maps](https://legacy.lib.utexas.edu/maps/world_cities.html#D).
+  * [Small pieces of city map](https://people.eecs.berkeley.edu/~taesung_park/CycleGAN/datasets/).
+  * [History maps](https://legacy.lib.utexas.edu/maps/world_cities.html#D).
 * Global Map Image Data:
- * [NASA Earthobservation](https://earthobservatory.nasa.gov/global-maps).
- * [Global Map Data](https://nationalmap.gov/small_scale/atlas-ftp-global-map.html).
+  * [NASA Earthobservation](https://earthobservatory.nasa.gov/global-maps).
+  * [Global Map Data](https://nationalmap.gov/small_scale/atlas-ftp-global-map.html).
 
 ### References
 * @brilliantmaps https://brilliantmaps.com/4037-100000-person-cities/
