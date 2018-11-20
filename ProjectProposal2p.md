@@ -25,7 +25,7 @@ The second section is about the livable spaces searching and it is more like an 
 * Building Kernel Soft SVM model and MLP Model(2019/11/22).
 * Building CNN Model(2019/11/25).
 * Combining the SVM(or MLP) model and the CNN model to generate the new model for better city evaluation accuracy(2019/11/26).
-* Bias, Variance and Noise Analyzation(2019/12/01).
+* Bias, Variance and Noise Analysis(2019/12/01).
 * Final Project Paper Writing(2019/12/05).
 * (Optional)Building the RNN(or Markov) Model to Predict the Future Trend of City.
 * Building the GAN Model.
