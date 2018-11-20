@@ -19,7 +19,7 @@ The following two section about future map generating and livable place searchin
 
 The second section is about the livable spaces searching and it is more like an application of my evaluation model. I will first do a region evaluation to find the high value less human activity area likes plain and spilt these area into thousands of little square image with features of weather, elevation level and so on. After that, I will apply my feature adjusted combined evaluation model to these features and generate a list of evaluation values. The places with highest evaluation value may be taken into consideration to build a city.
 
-### [Steps and Timeline](https://github.com/unlimitediw/MLFinalProject/blob/master/Timeline.md)
+### [Steps and Timeline](https://github.com/unlimitediw/MLFinalProject/blob/master/Timeline.md) (please click the link to see more detail)
 Project Proposal(2019/11/19) -> Data Collection and Preprocessing(2019/11/21) -> Building Kernel Soft SVM model and MLP Model(2019/11/22) -> Building CNN Model(2019/11/25) -> Combining the SVM(or MLP) model and the CNN model to generate the new model for better city evaluation accuracy.(2019/11/26) -> Bias, Variance and Noise Analyzation(2019/12/01) -> Final Project Paper Writing(2019/12/05) -> (Optional)Building the RNN(or Markov) Model to Predict the Future Trend of City & Building the GAN Model & Finding the livable area for human
 
 ### [Datasets and Reference](https://github.com/unlimitediw/MLFinalProject/blob/master/DataRef.md)
